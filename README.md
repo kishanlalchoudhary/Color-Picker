@@ -6,14 +6,12 @@ A simple Chrome extension that lets you pick colors from any webpage and copies 
 
 1. **Clone the repository**
    ```bash
-      git clone https://github.com/kishanlalchoudhary/Color-Picker.git
+   git clone https://github.com/kishanlalchoudhary/Color-Picker.git
    ```
-
-2. **Load the Extension in Chrome**
-  - Open Chrome and go to: `chrome://extensions/`
-  - Enable Developer Mode (top-right corner).  
-  - Click Load Unpacked.  
-  - Select the project folder.  
+2. Open Chrome and go to: `chrome://extensions/`
+3. Enable Developer Mode (top-right corner).  
+4. Click Load Unpacked.  
+5. Select the project folder.  
 
 ## 📌 Usage
 
