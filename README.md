@@ -11,9 +11,9 @@ A simple Chrome extension that lets you pick colors from any webpage and copies 
 
 2. **Load the Extension in Chrome**
   - Open Chrome and go to:
-   ```bash
-     chrome://extensions/
-   ```
+      ```bash
+         chrome://extensions/
+      ```
   - Enable Developer Mode (top-right corner).  
   - Click Load Unpacked.  
   - Select the project folder.  
