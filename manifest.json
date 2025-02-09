@@ -1,0 +1,19 @@
+{
+  "name": "Color Picker",
+  "description": "A simple and efficient color picker extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["storage", "activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "options_page": "options.html",
+  "icons": {
+    "16": "assets/picker_16.png",
+    "32": "assets/picker_32.png",
+    "48": "assets/picker_48.png"
+  }
+}
